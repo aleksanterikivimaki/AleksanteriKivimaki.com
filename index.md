@@ -4,6 +4,7 @@ One day I will pay someone to write a short bio about Aleksanteri Kivimaki. That
 [Twitter](https://twitter.com/AlexKivimaeki)
 [Flickr](https://www.flickr.com/people/aleksanterikivimaki/)
 [Soundcloud](https://soundcloud.com/aleksanterikivimaki)
+[Keybase](https://keybase.io/akivimaki)
 [Pinterest](https://www.pinterest.com/AleksanteriKivimaki/)
 [Mixcloud](https://www.mixcloud.com/AleksanteriKivimaki/)
 [Devpost](https://devpost.com/AleksanteriKivimaki)
