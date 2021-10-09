@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/akivimaki
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aleksanterikivimaki.com
+  * I am akivimaki (https://keybase.io/akivimaki) on keybase.
+  * I have a public key with fingerprint 3F04 9172 0FD0 D375 CB6B  9036 431E 714C 0FE4 DC3E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011500ae7445f9137c3cd379e9a891a22df050700c1ea5dd34b85444b8cd513d390a",
+      "fingerprint": "3f0491720fd0d375cb6b9036431e714c0fe4dc3e",
+      "host": "keybase.io",
+      "key_id": "431e714c0fe4dc3e",
+      "kid": "01011500ae7445f9137c3cd379e9a891a22df050700c1ea5dd34b85444b8cd513d390a",
+      "uid": "d1e615615293179ef620b1c85eb93a19",
+      "username": "akivimaki"
+    },
+    "service": {
+      "hostname": "aleksanterikivimaki.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1633784720,
+  "expire_in": 157680000,
+  "prev": "377f907783f34c04423d6daedf20c240e4e70469744907e44ecef49526f52a76",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMItAnicrZJbSBVBGMePaTfBKMqIxJQ1C810Zmd29+wppIdEgxCMLnASTrO7s8f1
+cva4Z48mYqmQ9CAYSplamZe8oJEoRQ+VGtEdKpFeIuqgD0kXfMvQsFnJtx4bhhlm
++H3/7/v+M0/iol2xUddyxHV7PrafiXo12RN2EdJyqZpTTK2K81RzJXRlo6UaDdm+
+EkPjPByAAEIBAEIljAVdhkhSkaohSaYyccuQ8LymAwFIAKiQEkHTEFbcAsZsVTUB
+Ig3JgHAZnG4E/NQKWkbAZrJIB1iGEg90DTAxQVVERQZIxAhSCWIV6BRrKqIssMgM
+ORGsOIWEaKZhsjt28K2U9w/+P9cdXpHTIBWhwCYvI8g0dJEHClTdAlVkRKDsgCFq
+BUgZZTQpMSqMMrZyNRkcu64wVOo467SyipTSkhAJ2NQyVuFM1SxjOkHLtE3VLGVQ
+kW0HQx5HxK4KOlGVVPH91fMpRkBjnrKICmqFDDPAeSAjVdtwEkARIcmNmcMZHD0b
+NCzqMxxCkEQ3YMPJQyucl5AkXQaS5EY6Yj5izCNN1AjVdB6oPAYUUwlgUWY2Moxi
+TFWqY1ngRV3giSRyToflAZPzCKxM4meSIcMfIHbYolzN44nCGFdUrGvd2jXOX3PF
+bty8+gNrt61fLhgrbxdnbiz1pvanXrYOPEtaLC/csjXSF1P7fXb04sLniQRf58Os
+Vjg1k//odkJDmnC4DPLHxtwj8ZG08N2JvP0d0YW7Guu6sz6kDnhoQeX43tyolsK8
+iX2Rn1PFXZGG97FHB73bb02fHh27kD+c9PHFeGfP4PXFe3PfFl4PvfQ2ZSbPZnfd
+KEp8m37wzklS/jv8ZeB+7fHcBpQ3r+R4RU/ji2D7j6tDidPnvZGXTY3n+r4uxf/K
+VlMalyeLZ5pzWtufn3LV5ezoPVv/dL5+Z/PnK+lcx8ib9JThtpgT3RuMT13Su02R
+uCV/m3LI6xeSj0TfHGnr8fXulvuPhh8oy3N/APUFRJg=
+=EC/R
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akivimaki
+
+==================================================================
