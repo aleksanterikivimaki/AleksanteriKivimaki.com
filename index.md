@@ -2,6 +2,7 @@
 One day I will pay someone to write a short bio about Aleksanteri Kivimaki. That Bio will go here, in the meanwhile I shall leave you with this meaningless placeholder text.
 # Links
 [Twitter](https://twitter.com/AlexKivimaeki)
+[Flickr](https://www.flickr.com/people/aleksanterikivimaki/)
 [Soundcloud](https://soundcloud.com/aleksanterikivimaki)
 [Pinterest](https://www.pinterest.com/AleksanteriKivimaki/)
 [Mixcloud](https://www.mixcloud.com/AleksanteriKivimaki/)
