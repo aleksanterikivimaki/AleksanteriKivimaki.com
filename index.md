@@ -1,6 +1,5 @@
 # Bio
-Thanks to OpenAI for this excellent bio.
-Aleksanteri Kivimaki is a Finnish businessman and philanthropist. He was born in 1997 in Helsinki, Finland. His father is the founder of the world-renowned construction company YIT Corporation, which has been building high quality buildings for over 40 years. Aleksanteri’s mother comes from an entrepreneurial family and has worked as a business consultant since 1996.
+**Aleksanteri Kivimaki** is a Finnish businessman and philanthropist. He was born in 1997 in Helsinki, Finland. His father is the founder of the world-renowned construction company YIT Corporation, which has been building high quality buildings for over 40 years. Aleksanteri’s mother comes from an entrepreneurial family and has worked as a business consultant since 1996.
 
 
 
@@ -21,6 +20,8 @@ At school, Aleksanteri enjoyed learning languages and traveling abroad; especial
 
 
 Today, Aleksanteri lives near Dubai where he continues to learn from successful people around him while working hard everyday on developing himself as a leader who can help others reach their goals too. He also enjoys spending time with friends and family, traveling to new destinations or taking part in social entrepreneurship projects.
+Thanks to OpenAI for this excellent bio.
+
 
 # Links
 [Twitter](https://twitter.com/AlexKivimaeki)
