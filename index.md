@@ -1,9 +1,6 @@
 # Bio
-A bio about the Finnish businessman and philanthropist Aleksanteri Kivimäki who was born in 1997 and lives in Dubai.
-
-
-
-Aleksanteri Kivimäki is a Finnish businessman and philanthropist. He was born in 1997 in Helsinki, Finland. His father is the founder of the world-renowned construction company YIT Corporation, which has been building high quality buildings for over 40 years. Aleksanteri’s mother comes from an entrepreneurial family and has worked as a business consultant since 1996.
+Thanks to OpenAI for this excellent bio.
+Aleksanteri Kivimaki is a Finnish businessman and philanthropist. He was born in 1997 in Helsinki, Finland. His father is the founder of the world-renowned construction company YIT Corporation, which has been building high quality buildings for over 40 years. Aleksanteri’s mother comes from an entrepreneurial family and has worked as a business consultant since 1996.
 
 
 
